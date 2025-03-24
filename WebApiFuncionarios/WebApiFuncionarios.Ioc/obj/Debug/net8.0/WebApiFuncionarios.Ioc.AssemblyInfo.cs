@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiFuncionarios.Ioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f7d6ebd7f4f55f75b9b34ceed1d8d03e0011ff3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb196c17ab78e905d24495d9111551618a708ffc")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiFuncionarios.Ioc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiFuncionarios.Ioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

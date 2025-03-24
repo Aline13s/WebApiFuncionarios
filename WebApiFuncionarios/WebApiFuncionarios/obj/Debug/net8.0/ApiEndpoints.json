@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "WebApiFuncionarios.Controllers.FuncionariosController",
+    "Method": "GetTodos",
+    "RelativePath": "api/Funcionarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiFuncionarios.Controllers.FuncionariosController",
+    "Method": "Post",
+    "RelativePath": "api/Funcionarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "funcionario",
+        "Type": "WebApiFuncionarios.Entities.Funcionario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiFuncionarios.Controllers.FuncionariosController",
+    "Method": "GetPorId",
+    "RelativePath": "api/Funcionarios/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiFuncionarios.Controllers.FuncionariosController",
+    "Method": "Put",
+    "RelativePath": "api/Funcionarios/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "funcionario",
+        "Type": "WebApiFuncionarios.Entities.Funcionario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiFuncionarios.Controllers.FuncionariosController",
+    "Method": "Delete",
+    "RelativePath": "api/Funcionarios/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

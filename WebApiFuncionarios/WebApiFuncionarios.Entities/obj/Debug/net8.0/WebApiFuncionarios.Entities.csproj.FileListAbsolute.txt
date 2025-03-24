@@ -1,0 +1,15 @@
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\bin\Debug\net8.0\WebApiFuncionarios.Entities.deps.json
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\bin\Debug\net8.0\WebApiFuncionarios.Entities.runtimeconfig.json
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\bin\Debug\net8.0\WebApiFuncionarios.Entities.dll
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\bin\Debug\net8.0\WebApiFuncionarios.Entities.pdb
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\obj\Debug\net8.0\WebApiFuncionarios.Entities.csproj.AssemblyReference.cache
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\obj\Debug\net8.0\WebApiFuncionarios.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\obj\Debug\net8.0\WebApiFuncionarios.Entities.AssemblyInfoInputs.cache
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\obj\Debug\net8.0\WebApiFuncionarios.Entities.AssemblyInfo.cs
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\obj\Debug\net8.0\WebApiFuncionarios.Entities.csproj.CoreCompileInputs.cache
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\obj\Debug\net8.0\WebApiFuncionarios.Entities.sourcelink.json
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\obj\Debug\net8.0\WebApiFuncionarios.Entities.dll
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\obj\Debug\net8.0\refint\WebApiFuncionarios.Entities.dll
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\obj\Debug\net8.0\WebApiFuncionarios.Entities.pdb
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\obj\Debug\net8.0\WebApiFuncionarios.Entities.genruntimeconfig.cache
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Entities\obj\Debug\net8.0\ref\WebApiFuncionarios.Entities.dll

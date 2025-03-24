@@ -10,4 +10,18 @@
     <Folder Include="Ioc\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.3">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebApiFuncionarios.Repositories\WebApiFuncionarios.Repositories.csproj" />
+    <ProjectReference Include="..\WebApiFuncionarios.Services\WebApiFuncionarios.Services.csproj" />
+  </ItemGroup>
+
 </Project>

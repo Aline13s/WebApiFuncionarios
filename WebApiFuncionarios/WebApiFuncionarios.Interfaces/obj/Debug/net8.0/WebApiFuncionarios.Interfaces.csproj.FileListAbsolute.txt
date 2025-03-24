@@ -1,0 +1,16 @@
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\bin\Debug\net8.0\WebApiFuncionarios.Interfaces.deps.json
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\bin\Debug\net8.0\WebApiFuncionarios.Interfaces.dll
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\bin\Debug\net8.0\WebApiFuncionarios.Interfaces.pdb
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\bin\Debug\net8.0\WebApiFuncionarios.Entities.dll
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\bin\Debug\net8.0\WebApiFuncionarios.Entities.pdb
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\obj\Debug\net8.0\WebApiFuncionarios.Interfaces.csproj.AssemblyReference.cache
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\obj\Debug\net8.0\WebApiFuncionarios.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\obj\Debug\net8.0\WebApiFuncionarios.Interfaces.AssemblyInfoInputs.cache
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\obj\Debug\net8.0\WebApiFuncionarios.Interfaces.AssemblyInfo.cs
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\obj\Debug\net8.0\WebApiFuncionarios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\obj\Debug\net8.0\WebApiFuncionarios.Interfaces.sourcelink.json
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\obj\Debug\net8.0\WebApiFu.E864A35E.Up2Date
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\obj\Debug\net8.0\WebApiFuncionarios.Interfaces.dll
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\obj\Debug\net8.0\refint\WebApiFuncionarios.Interfaces.dll
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\obj\Debug\net8.0\WebApiFuncionarios.Interfaces.pdb
+C:\Users\aline\source\repos\Aline13s\WebApiFuncionarios\WebApiFuncionarios\WebApiFuncionarios.Interfaces\obj\Debug\net8.0\ref\WebApiFuncionarios.Interfaces.dll
