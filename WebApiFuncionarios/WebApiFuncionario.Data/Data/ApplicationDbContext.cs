@@ -12,6 +12,6 @@ public class AppDbContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Funcionario>().HasKey(f => f.Id);
-        // Pode adicionar mais configurações aqui se quiser
+        
     }
 }
